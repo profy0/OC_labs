@@ -1,0 +1,2 @@
+C:\Users\nikit\source\repos\lab2_oc\Debug\lab2_oc.exe
+C:\Users\nikit\source\repos\lab2_oc\Debug\lab2_oc.pdb
