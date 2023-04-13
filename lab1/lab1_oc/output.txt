@@ -1,0 +1,4 @@
+Report for file "C:/Users/nikit/source/repos/lab1_oc/employees.bin":
+Employee number	Name	Hours worked	Salary
+1		Nikita	10		35
+2		Maksim	5		17.5
