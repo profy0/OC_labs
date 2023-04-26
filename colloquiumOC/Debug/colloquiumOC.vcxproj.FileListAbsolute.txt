@@ -1,0 +1,2 @@
+C:\Users\nikit\source\repos\colloquiumOC\Debug\colloquiumOC.exe
+C:\Users\nikit\source\repos\colloquiumOC\Debug\colloquiumOC.pdb

@@ -1,0 +1,4 @@
+Код реализует паттерны проектирования Factory Method и Strategy
+в контексте доставки различных типов минералов. 
+Factory Method используется для создания различных типов минералов (coal, gold, diamond),
+а паттерн Strategy для различных способов доставки (by truck, by ship, by airplane).
